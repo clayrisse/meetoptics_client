@@ -1,5 +1,10 @@
 # showroom
 
+![](public/ShowList.png)
+
+![](public/ShowListFiltered.png)
+
+
 ## Project setup
 ```
 npm install
@@ -17,3 +22,5 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+

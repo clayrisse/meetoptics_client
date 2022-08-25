@@ -129,9 +129,9 @@ export default {
 <style scoped>
 .bigtable {
   width: 80%;
-  margin: 60px auto 60px !important;
+  margin: 30px auto !important;
 }
 .blank{
-  height: 40px;
+  height: 20px;
 }
 </style>
